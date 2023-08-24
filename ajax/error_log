@@ -1,0 +1,472 @@
+[26-Oct-2020 20:06:28 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorAspirantes' not found in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php:13
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(27): AjaxAspirantes->ajaxBuscarAspirantes()
+#1 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 13
+[26-Oct-2020 20:35:42 UTC] PHP Notice:  Undefined index: funcion in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 19
+[26-Oct-2020 20:36:12 UTC] PHP Notice:  Undefined index: funcion in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 19
+[26-Oct-2020 21:17:42 UTC] PHP Fatal error:  Uncaught Error: Class 'ControladorAspirantes' not found in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php:17
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(31): AjaxAspirantes->ajaxBuscarAspirantes()
+#1 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 17
+[26-Oct-2020 21:21:24 UTC] PHP Fatal error:  Uncaught Error: Class 'ModeloAspirantes' not found in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php:19
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(33): AjaxAspirantes->ajaxBuscarAspirantes()
+#1 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 19
+[26-Oct-2020 21:42:52 UTC] PHP Notice:  Undefined index: folio in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 21:43:28 UTC] PHP Notice:  Undefined index: folio in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 21:43:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php:49
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(18): ModeloAspirantes::mdlMostrarAspirantes('Aspirantes', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(32): AjaxAspirantes->ajaxBuscarAspirantes()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 49
+[26-Oct-2020 21:43:45 UTC] PHP Notice:  Undefined index: folio in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 21:43:45 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php:49
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(18): ModeloAspirantes::mdlMostrarAspirantes('Aspirantes', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(32): AjaxAspirantes->ajaxBuscarAspirantes()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 49
+[26-Oct-2020 21:44:03 UTC] PHP Notice:  Undefined index: folio in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 21:44:15 UTC] PHP Notice:  Undefined index: folio in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 22:13:49 UTC] PHP Notice:  Undefined index: folio in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 22:13:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php:51
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(18): ModeloAspirantes::mdlMostrarAspirantes('Aspirantes', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(32): AjaxAspirantes->ajaxBuscarAspirantes()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 51
+[26-Oct-2020 22:14:07 UTC] PHP Notice:  Undefined index: folio in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 22:15:38 UTC] PHP Notice:  Undefined index: folio in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 22:15:38 UTC] PHP Notice:  Undefined index: paterno in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 38
+[26-Oct-2020 22:20:04 UTC] PHP Notice:  Undefined index: folio in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 22:20:04 UTC] PHP Notice:  Undefined index: paterno in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 38
+[26-Oct-2020 22:20:34 UTC] PHP Notice:  Undefined index: folio in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 22:20:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php:69
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(18): ModeloAspirantes::mdlMostrarAspirantes('Aspirantes', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(32): AjaxAspirantes->ajaxBuscarAspirantes()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 69
+[26-Oct-2020 22:21:05 UTC] PHP Notice:  Undefined index: folio in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 22:22:53 UTC] PHP Notice:  Undefined index: folio in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 25
+[26-Oct-2020 22:24:56 UTC] PHP Notice:  Undefined index: folio in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 25
+[26-Oct-2020 22:26:04 UTC] PHP Notice:  Undefined index: folio in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 21
+[26-Oct-2020 22:33:52 UTC] PHP Notice:  Undefined index: folio in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 20
+[26-Oct-2020 22:35:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::bbindParam() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php:20
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(18): ModeloAspirantes::mdlMostrarAspirantes('Aspirantes', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(32): AjaxAspirantes->ajaxBuscarAspirantes()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 20
+[26-Oct-2020 23:10:04 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 18
+[26-Oct-2020 23:10:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php:18
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(18): ModeloAspirantes::mdlMostrarAspirantes('Aspirantes', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(33): AjaxAspirantes->ajaxBuscarAspirantes()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 18
+[26-Oct-2020 23:21:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php:24
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(18): ModeloAspirantes::mdlMostrarAspirantes('Aspirantes', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(33): AjaxAspirantes->ajaxBuscarAspirantes()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 23:21:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php:24
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(18): ModeloAspirantes::mdlMostrarAspirantes('Aspirantes', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(33): AjaxAspirantes->ajaxBuscarAspirantes()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 23:21:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php:24
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(18): ModeloAspirantes::mdlMostrarAspirantes('Aspirantes', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(33): AjaxAspirantes->ajaxBuscarAspirantes()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 23:21:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php:24
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(18): ModeloAspirantes::mdlMostrarAspirantes('Aspirantes', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(33): AjaxAspirantes->ajaxBuscarAspirantes()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 23:22:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php:24
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(18): ModeloAspirantes::mdlMostrarAspirantes('Aspirantes', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php(33): AjaxAspirantes->ajaxBuscarAspirantes()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 24
+[26-Oct-2020 23:35:46 UTC] PHP Notice:  Array to string conversion in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 20
+[26-Oct-2020 23:35:55 UTC] PHP Notice:  Array to string conversion in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 20
+[26-Oct-2020 23:36:46 UTC] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 20
+[28-Oct-2020 21:30:54 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 25
+[28-Oct-2020 21:31:13 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 25
+[28-Oct-2020 21:37:58 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 17
+[28-Oct-2020 21:37:58 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:19
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(18): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(45): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 19
+[28-Oct-2020 21:39:37 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 17
+[28-Oct-2020 21:39:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:19
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(18): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(45): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 19
+[28-Oct-2020 21:41:43 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 17
+[28-Oct-2020 21:41:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:19
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(18): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(45): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 19
+[28-Oct-2020 21:41:50 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 17
+[28-Oct-2020 21:41:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:19
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(18): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(45): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 19
+[28-Oct-2020 21:45:48 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 17
+[28-Oct-2020 21:45:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:19
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(18): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(45): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 19
+[28-Oct-2020 21:46:04 UTC] PHP Warning:  PDO::prepare() expects at least 1 parameter, 0 given in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 17
+[28-Oct-2020 21:46:04 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on bool in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:19
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(18): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(45): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 19
+[28-Oct-2020 21:56:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::query() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:20
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(18): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(45): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 20
+[28-Oct-2020 21:58:31 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetchAll() on bool in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:21
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(18): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(45): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 21
+[28-Oct-2020 22:02:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:79
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(18): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(45): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 79
+[28-Oct-2020 23:22:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:79
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(18): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(45): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 79
+[28-Oct-2020 23:23:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:79
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(18): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(45): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 79
+[28-Oct-2020 23:27:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:79
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(18): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(45): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 79
+[28-Oct-2020 23:29:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:79
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(18): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(45): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 79
+[30-Oct-2020 16:29:52 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 24
+[30-Oct-2020 20:24:01 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 25
+[30-Oct-2020 20:30:10 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 35
+[30-Oct-2020 20:33:59 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 35
+[30-Oct-2020 20:35:49 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 25
+[30-Oct-2020 20:36:29 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 25
+[30-Oct-2020 20:37:17 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 25
+[30-Oct-2020 20:39:58 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 25
+[30-Oct-2020 20:42:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method PDOStatement::close() in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:85
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(18): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(45): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 85
+[03-Nov-2020 19:52:37 UTC] PHP Notice:  Undefined index: idAspirante in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 26
+[03-Nov-2020 19:52:53 UTC] PHP Notice:  Undefined index: idAspirante in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 26
+[03-Nov-2020 19:53:07 UTC] PHP Notice:  Undefined index: idAspirante in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 26
+[03-Nov-2020 22:36:50 UTC] PHP Notice:  Undefined index: idAspirante in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 26
+[03-Nov-2020 22:36:50 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 106
+[03-Nov-2020 22:37:50 UTC] PHP Notice:  Undefined index: idAspirante in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 26
+[03-Nov-2020 22:37:50 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 106
+[03-Nov-2020 22:38:08 UTC] PHP Notice:  Undefined index: idAspirante in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 26
+[03-Nov-2020 22:38:08 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 106
+[03-Nov-2020 22:39:07 UTC] PHP Notice:  Undefined index: idAspirante in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 26
+[03-Nov-2020 22:39:07 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 106
+[03-Nov-2020 22:41:04 UTC] PHP Notice:  Undefined index: idAspirante in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 26
+[03-Nov-2020 22:41:04 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 106
+[03-Nov-2020 22:44:11 UTC] PHP Notice:  Undefined index: idAspirante in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 26
+[03-Nov-2020 22:44:11 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 106
+[03-Nov-2020 22:45:12 UTC] PHP Notice:  Undefined index: idAspirante in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/aspirantes.ajax.php on line 26
+[04-Nov-2020 05:02:42 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[04-Nov-2020 05:02:48 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[04-Nov-2020 05:02:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[04-Nov-2020 05:02:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[04-Nov-2020 05:02:50 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[04-Nov-2020 05:03:20 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[04-Nov-2020 05:04:37 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[04-Nov-2020 05:05:16 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[04-Nov-2020 06:23:12 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[04-Nov-2020 06:23:22 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[04-Nov-2020 06:23:24 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[04-Nov-2020 06:23:25 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[04-Nov-2020 06:23:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[04-Nov-2020 06:23:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[04-Nov-2020 06:23:26 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[04-Nov-2020 06:23:53 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 29
+[10-Nov-2020 00:25:11 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 135
+[10-Nov-2020 00:26:08 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 135
+[10-Nov-2020 00:26:11 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 135
+[10-Nov-2020 00:27:11 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 135
+[10-Nov-2020 00:27:40 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 135
+[10-Nov-2020 00:28:19 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 135
+[10-Nov-2020 00:29:02 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 139
+[10-Nov-2020 00:30:58 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/aspirantes.modelo.php on line 138
+[12-Nov-2020 02:57:40 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:40 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:45
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:43 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:45
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:43 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:45
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:44 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:45
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:44 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:45
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:44 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:45
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:44 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:45
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:45 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:45
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:45 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:45
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:48 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:45
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:48 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:45
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:48 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:57:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:45
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:58:25 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:58:25 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:45
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 45
+[12-Nov-2020 02:59:00 UTC] PHP Notice:  Undefined variable: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 02:59:37 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 46
+[12-Nov-2020 02:59:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:46
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 46
+[12-Nov-2020 02:59:37 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 46
+[12-Nov-2020 02:59:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:46
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 46
+[12-Nov-2020 02:59:37 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 46
+[12-Nov-2020 02:59:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:46
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 46
+[12-Nov-2020 02:59:37 UTC] PHP Notice:  Undefined variable: stmt in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 46
+[12-Nov-2020 02:59:37 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php:46
+Stack trace:
+#0 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(19): ModeloAlumnosgrupos::mdlMostrarAlumnosgrupos('AlumnosGrupos', Array)
+#1 /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/alumnosgrupos.ajax.php(46): AjaxAlumnosgrupos->ajaxBuscarAlumnosgrupos()
+#2 {main}
+  thrown in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 46
+[12-Nov-2020 03:01:17 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 28
+[12-Nov-2020 03:01:23 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 28
+[12-Nov-2020 03:02:00 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 28
+[12-Nov-2020 03:02:28 UTC] PHP Notice:  Undefined variable: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 03:23:50 UTC] PHP Notice:  Undefined variable: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 03:28:58 UTC] PHP Notice:  Undefined variable: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 03:28:58 UTC] PHP Notice:  Undefined variable: tabla2 in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 40
+[12-Nov-2020 03:28:58 UTC] PHP Notice:  Undefined variable: tabla3 in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 40
+[12-Nov-2020 03:29:06 UTC] PHP Notice:  Undefined variable: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 03:29:06 UTC] PHP Notice:  Undefined variable: tabla2 in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 40
+[12-Nov-2020 03:29:06 UTC] PHP Notice:  Undefined variable: tabla3 in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 40
+[12-Nov-2020 03:29:10 UTC] PHP Notice:  Undefined variable: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 03:29:10 UTC] PHP Notice:  Undefined variable: tabla2 in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 40
+[12-Nov-2020 03:29:10 UTC] PHP Notice:  Undefined variable: tabla3 in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 40
+[12-Nov-2020 03:29:10 UTC] PHP Notice:  Undefined variable: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 03:29:10 UTC] PHP Notice:  Undefined variable: tabla2 in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 40
+[12-Nov-2020 03:29:10 UTC] PHP Notice:  Undefined variable: tabla3 in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 40
+[12-Nov-2020 03:29:38 UTC] PHP Notice:  Undefined variable: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 03:32:13 UTC] PHP Notice:  Undefined variable: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 03:32:13 UTC] PHP Notice:  Undefined variable: tabla2 in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 42
+[12-Nov-2020 03:32:13 UTC] PHP Notice:  Undefined variable: tabla3 in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 42
+[12-Nov-2020 03:51:24 UTC] PHP Notice:  Undefined variable: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 03:52:45 UTC] PHP Notice:  Undefined variable: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 03:52:51 UTC] PHP Notice:  Undefined variable: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 03:53:13 UTC] PHP Notice:  Undefined variable: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 03:59:48 UTC] PHP Notice:  Undefined variable: folio_cuePat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 03:59:48 UTC] PHP Notice:  Undefined index: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 39
+[12-Nov-2020 04:00:26 UTC] PHP Notice:  Undefined variable: folio_cuePat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 04:00:26 UTC] PHP Notice:  Undefined index: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 39
+[12-Nov-2020 04:01:13 UTC] PHP Notice:  Undefined variable: cuenta_Pat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 04:01:13 UTC] PHP Notice:  Undefined index: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 39
+[12-Nov-2020 04:04:25 UTC] PHP Notice:  Undefined variable: cuenta_Pat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 04:04:25 UTC] PHP Notice:  Undefined variable: cuenta_Pat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 04:04:25 UTC] PHP Notice:  Undefined index: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 39
+[12-Nov-2020 04:04:33 UTC] PHP Notice:  Undefined variable: cuenta_Pat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 04:04:33 UTC] PHP Notice:  Undefined variable: cuenta_Pat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 16
+[12-Nov-2020 04:04:33 UTC] PHP Notice:  Undefined index: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 39
+[12-Nov-2020 05:09:26 UTC] PHP Notice:  Undefined index: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 39
+[12-Nov-2020 05:10:58 UTC] PHP Notice:  Undefined index: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 39
+[12-Nov-2020 16:47:24 UTC] PHP Notice:  Undefined index: folio_apPat in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/alumnosgrupos.modelo.php on line 39
+[12-Nov-2020 17:21:56 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 17:21:58 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 21:28:28 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 21:50:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 21:50:17 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 21:51:37 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 21:52:58 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 21:53:13 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 21:53:37 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 21:55:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 21:56:40 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 22:01:23 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 22:03:14 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 22:04:16 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 22:07:20 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 22:11:04 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 22:11:36 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 20
+[12-Nov-2020 22:12:11 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 21
+[12-Nov-2020 22:16:48 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 21
+[12-Nov-2020 22:18:53 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 21
+[12-Nov-2020 22:19:02 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 21
+[12-Nov-2020 22:19:03 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 21
+[12-Nov-2020 22:19:03 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 21
+[12-Nov-2020 22:19:03 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 21
+[12-Nov-2020 22:19:25 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 21
+[12-Nov-2020 22:22:06 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 21
+[12-Nov-2020 22:34:55 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 5
+[12-Nov-2020 22:48:18 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 22
+[12-Nov-2020 22:52:42 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 22
+[12-Nov-2020 22:53:09 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 22
+[12-Nov-2020 22:53:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 22
+[12-Nov-2020 22:55:35 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 22:55:52 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 22:56:35 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 23:14:55 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 23:16:34 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting function (T_FUNCTION) or const (T_CONST) in /home/sz6xeh4uhfrf/public_html/contabilidad/ajax/buscarconceptos.ajax.php on line 19
+[12-Nov-2020 23:17:21 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:18:32 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:22:02 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:24:38 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:28:13 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:32:13 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:33:09 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:33:18 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:33:18 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:33:18 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:33:18 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:33:19 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:33:19 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:33:19 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:36:11 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:37:27 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[12-Nov-2020 23:40:48 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[13-Nov-2020 00:06:11 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[13-Nov-2020 00:12:57 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[13-Nov-2020 00:13:40 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[13-Nov-2020 00:30:15 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[13-Nov-2020 00:30:34 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[17-Nov-2020 23:12:23 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[18-Nov-2020 17:45:54 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[18-Nov-2020 17:46:06 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[18-Nov-2020 17:57:26 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[18-Nov-2020 17:57:44 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[18-Nov-2020 18:16:24 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[18-Nov-2020 18:23:39 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[18-Nov-2020 23:19:47 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[18-Nov-2020 23:26:45 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20
+[19-Nov-2020 05:22:52 UTC] PHP Notice:  Undefined index: id_seccion in /home/sz6xeh4uhfrf/public_html/contabilidad/modelos/categoriasconceptos.modelo.php on line 20

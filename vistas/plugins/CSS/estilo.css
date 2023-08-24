@@ -1,0 +1,705 @@
+@font-face {
+    font-family: 'Rotoplas Bold';
+    src: url('font/rotoplas-bold-webfont.woff2') format('woff2'),
+    url('font/rotoplas-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Rotoplas Light';
+    src: url('font/rotoplas-light-webfont.woff2') format('woff2'),
+    url('font/rotoplas-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Rotoplas Regular';
+    src: url('font/rotoplas-regular-webfont.woff2') format('woff2'),
+    url('font/rotoplas-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+html, body {
+    font-family: 'Rotoplas Regular', sans-serif;
+    font-size: 12px;
+    background-color: #fff;
+}
+.sepa_50{
+    margin-top: 50px;
+}
+html{
+    min-height: 100%;
+    position: relative;
+}
+/*body{*/
+/*    margin-bottom: 80px;*/
+/*}*/
+.op_1{background: #009CDE;text-align: center;
+    font-family: 'Rotoplas Regular', sans-serif;}
+.op_2{background: #407EC9;text-align: center;
+    font-family: 'Rotoplas Regular', sans-serif;}
+.op_3{background: #002554;text-align: center;
+    font-family: 'Rotoplas Regular', sans-serif;}
+
+.op_1:hover{
+    background: #ef3340;
+}
+.op_2:hover{
+    background: #ef3340;
+}
+.op_3:hover{
+    background: #ef3340;
+}
+.op_1 a, .op_2 a, .op_3 a {
+    color: #fff;
+    font-size: 20px;
+    display: block;
+    padding: 20px 0;
+}
+.op_1 img, .op_2 img, .op_3 img{
+    padding-bottom: 15px;
+    padding-top: 5px;
+}
+.op_1 a:hover, .op_2 a:hover, .op_3 a:hover {
+    text-decoration: none;
+}
+footer, .footer{
+    background-color: #002554;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    min-height: 80px;
+    font-size: 12px;
+    font-family: 'Rotoplas Light', sans-serif;
+}footer, .footer{
+    background-color: #002554;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    min-height: 80px;
+    font-size: 12px;
+    font-family: 'Rotoplas Light', sans-serif;
+}
+
+.status{
+    background-color: #009CDE;
+    color: #fff;
+    border-radius: 0 0 20px 20px;
+    text-align: center;
+    font-family: 'Rotoplas Light', sans-serif;
+    margin-bottom: 20px;
+}
+.status h3 small{
+    color: #fff;
+    font-family: 'Rotoplas Light', sans-serif;
+    font-size: 14px;
+}
+.status h3{
+    margin-top: 10px;
+}
+.formu, .conte_res{
+    padding: 10px 20px;
+}
+label{
+    font-size: 15px;
+}
+.alta_rep{
+    margin-left: -50px;
+}
+/*.navbar-collapse .alta_rep li a{*/
+/*    font-size: 13px;*/
+/*}*/
+/*.navbar-collapse .navbar-nav li a {*/
+/*    font-size: 14px;*/
+/*}*/
+.nom_{
+    text-align: right;
+    font-size: 11px;
+    margin-top: 8px;
+}
+.cop{
+    padding-top: 15px;
+}
+.copy{
+    padding-top: 20px;
+    text-align: right;
+}
+.copy-img{
+    text-align: left;
+}
+.conte_logos{
+    background-color: #002554;
+    width: 100%;
+    padding: 17px 20px 5px 23px;
+}
+.conte_logos .container-fluid .row{
+    background: #002554;
+}
+.top_{
+    height: 103px;
+}
+.logo-01{
+    text-align: left;
+}
+.logo-02{
+    text-align: right;
+    font-size: 23px;
+    text-align: right;
+    line-height: 23px;
+    font-family: 'Rotoplas Bold', sans-serif;
+    padding-top: 20px;
+}
+.logo-02 a{
+    color: #fff;
+    text-decoration: none;
+}
+.logo-02 a:hover{
+    text-decoration: none;
+}
+/*.navbar-collapse{*/
+/*    overflow: auto;*/
+/*}*/
+/*.navbar-nav {*/
+/*    margin-top: 10px;*/
+/*}*/
+.iconos{
+    padding: 0;
+    text-align: center;
+}
+.iconos a{
+    color: #fff;
+    margin: 10px;
+}
+.iconos ul{
+    padding: 0;
+}
+.icon li{
+    display: inline;
+}
+----------------------------------------------------------------------------------------
+.icon img{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+/*.navbar-nav li{*/
+/*    display: inline-block;*/
+/*}*/
+#poin{
+    cursor: pointer;
+}
+.resultado{
+    text-align: center;
+}
+.conte_res{
+    padding: 30px;
+}
+.der{
+    text-align: right;
+}
+.izq{
+    text-align: left;
+}
+.chico{
+    font-size: 10px;
+    font-family: 'Rotoplas Light', sans-serif;
+}
+.fondo{
+    background: #407ec9;
+    padding: 9% 0;
+    border: none;
+}
+.fondo .row{
+    background: transparent;
+}
+.fondo h1{
+    color: #fff;
+}
+.fondo-02{
+    background: #009CDE;
+    padding: 9% 0;
+    border: none;
+}
+.fondo-02 .row{
+    background: transparent;
+}
+.fondo-02 h1{
+    color: #fff;
+}
+.bt_gr{
+    margin: 20px;
+    padding: 50px 20px;
+    border-radius: 40px;
+    text-align: center;
+    background: rgba(0,37,84,.3);
+    color: #fff;
+}
+.bt_gr:hover{
+    background: rgba(255,255,255,.3);
+}
+.bt_gr img{
+    display: block;
+    margin: auto;
+}
+.bt_gr a{
+    color: #fff;
+    font-size: 25px;
+    display: block;
+    text-decoration: none;
+    font-family: 'Rotoplas Regular', sans-serif;
+}
+.bt_gr a:hover{
+    text-decoration: none;
+}
+.bt_ch{
+    padding: 10px;
+}
+.bt_ch img{
+    margin-right: 10px;
+}
+.bt_ch:hover{
+    background: rgba(0,37,84,.3);
+    border-radius: 10px;
+}
+.bt_ch a{
+    color: #fff;
+    font-size: 14px;
+    margin-left: 10px;
+    display: block;
+    font-family: 'Rotoplas Regular', sans-serif;
+}
+.bt_ch a:hover{
+    text-decoration: none;
+}
+.usu{
+    background: #fff;
+    margin-top: -50px;
+    padding: 10px;
+    text-align: center;
+    color:#002554;
+    border-radius: 0 0 10px 10px;
+    border: 2px solid #002554;
+    border-top: none;
+}
+.usu img{
+    margin-right: 10px;
+    margin-top: -5px;
+}
+.error{
+    text-align: right;
+    margin-bottom: 5px;
+    position: relative;
+}
+.error span{
+    padding: 10px;
+    color: #FF1300;
+}
+.modal-content{
+    color: #fff;
+    font-weight: 100px;
+}
+.ind_cont{
+    margin-top: 0;
+}
+.op_pro{
+    margin-top: 4%;
+}
+h1{
+    font-size: 23px;
+    font-family: 'Rotoplas Bold', sans-serif;
+}
+h2{
+    font-size: 20px;
+    font-family: 'Rotoplas Regular', sans-serif;
+}
+h3{
+    font-size: 17px;
+    font-family: 'Rotoplas Regular', sans-serif;
+}
+h4{
+    font-size: 14px;
+    font-family: 'Rotoplas Regular', sans-serif;
+}
+.tit_tit{
+    background-color: #0076cd;
+    color:#fff;
+}
+.titulo{
+    margin: -5px;
+    text-align: center;
+}
+.eval{
+    padding: 20px 0;
+    padding-right: 20px;
+}
+.colum-1{
+    border-top: 1px solid #bfbfbf;
+    border-left: 1px solid #bfbfbf;
+    border-bottom: 1px solid #bfbfbf;
+    height: 600px;
+    overflow: auto;
+    text-align: center;
+}
+.colum-1::-webkit-scrollbar {
+    width: 3px;
+}
+
+.colum-1::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+-----------------------------------------------
+.colum-1::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 1px solid slategrey;
+}
+.sin_lin{
+    border-right: 1px solid #bfbfbf;
+}
+.colum{
+    min-height: 600px;
+    width: 2000px;
+}
+.tit_fase{
+    background-color: #f4f4f4;
+    text-align: center;
+    border: 1px solid #bfbfbf;
+}
+.colum-1 h3{
+    font-size: 15px;
+}
+.tit_fase h3, .colum-1 h3{
+    padding-bottom: 10px;
+}
+.proye{
+    border: 1px solid #bfbfbf;
+    margin: 8px auto;
+    background-color: #f4f4f4;
+    font-family: 'Rotoplas Light', sans-serif;
+    text-align: left;
+}
+.proye_01{
+    border: 1px solid #bfbfbf;
+    margin: 8px auto;
+    background-color: #f4f4f4;
+    font-family: 'Rotoplas Light', sans-serif;
+    text-align: left;
+    border-bottom: none;
+}
+.sig{
+    padding: 0 5px;
+    background-color: #00cc99;
+}
+.sig a{
+    color: #fff;
+}
+.sig a:hover{
+    text-decoration: none;
+}
+.nom{
+    padding: 0 5px;
+}
+.cali_1{
+    background-color: #009933;
+    text-align: center;
+    color: #fff;
+}
+.cali_2{
+    background-color: #00cc44;
+    text-align: center;
+    color: #fff;
+}
+.cali_3{
+    background-color: #cccccc;
+    text-align: center;
+    color: #fff;
+}
+.seg_fa{
+    position: absolute;
+}
+.fass_3{
+    width: 750px;
+}
+.fass_4{
+    width: 1000px;
+}
+.fass_1{
+    width: 250px;
+}
+.conte{
+    overflow: auto;
+    margin-left: 10px;
+}
+.conte_1{
+    overflow: none;
+    margin-left: 10px;
+}
+
+.conte::-webkit-scrollbar {
+    height: 15px;
+}
+
+.conte::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+}
+
+.conte::-webkit-scrollbar-thumb {
+    background-color: darkgrey;
+    outline: 1px solid slategrey;
+}
+
+
+div[class^='cali']{
+    border-radius: 10px;
+}
+.cali_01{
+    background-color: #ff0000;
+    border: 1px solid #ff0000;
+}
+.cali_02{
+    background-color: #ddeb00;
+    border: 1px solid #ddeb00;
+}
+.cali_03{
+    background-color: #17c600;
+    border: 1px solid #17c600;
+}
+
+
+div[class^='cal']{
+    border-radius: 10px;
+}
+.cal_01{
+    background-color: #e52421;
+    border: 1px solid #e52421;
+}
+.cal_02{
+    background-color: #e56121;
+    border: 1px solid #e56121;
+}
+.cal_03{
+    background-color: #e6881d;
+    border: 1px solid #e6881d;
+}
+.cal_04{
+    background-color: #e6a016;
+    border: 1px solid #e6a016;
+}
+.cal_05{
+    background-color: #e6c300;
+    border: 1px solid #e6c300;
+}
+.cal_06{
+    background-color: #e5df00;
+    border: 1px solid #e5df00;
+}
+.cal_07{
+    background-color: #c7d300;
+    border: 1px solid #c7d300;
+}
+.cal_08{
+    background-color: #a6c718;
+    border: 1px solid #a6c718;
+}
+.cal_09{
+    background-color: #82bb27;
+    border: 1px solid #82bb27;
+}
+.cal_10{
+    background-color: #17c600;
+    border: 1px solid #17c600;
+}
+
+
+
+
+
+div[class^='cali']:hover{
+    background-color: #DADADA;
+    border: 1px solid #b4b4b4;
+}
+div[class^='cali'] a{
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Rotoplas Regular', sans-serif;
+    display: block;
+    text-decoration: none;
+}
+.cali_01 a:hover{
+    text-decoration: none;
+    color: #ef3340;
+}
+.cali_02 a:hover{
+    text-decoration: none;
+    color: #009CDE;
+}
+.cali_03 a:hover{
+    text-decoration: none;
+    color: #407EC9;
+}
+
+
+
+
+div[class^='cal']:hover{
+    background-color: #DADADA;
+    border: 1px solid #b4b4b4;
+}
+div[class^='cal'] a{
+    color: #fff;
+    font-size: 20px;
+    font-family: 'Rotoplas Regular', sans-serif;
+    display: block;
+    text-decoration: none;
+}
+.cal_01 a:hover{
+    text-decoration: none;
+    color: #ef3340;
+}
+.cal_02 a:hover{
+    text-decoration: none;
+    color: #009CDE;
+}
+.cal_03 a:hover{
+    text-decoration: none;
+    color: #407EC9;
+}
+
+
+
+
+@media (max-width: 1024px){
+    .ind_cont{
+        margin-top: -20px;
+    }
+    .fondo{
+        background: #006194;
+        background-position: 0 0;
+        padding: 3% 0;
+        border: none;
+    }
+    .icon li{
+        margin: 0 -10px;
+        margin-top: -5px;
+    }
+}
+@media (max-width: 780px){
+    .alta_rep{
+        margin-left: -15px;
+    }
+    .copy-img, .copy{
+        text-align: center;
+    }
+    .copy{
+        padding-right: 0;
+    }
+    .logo-01{
+        text-align: center;
+    }
+    .logo-02{
+        text-align: center;
+    }
+
+    .der, .izq{
+        text-align: center;
+    }
+    footer{
+        margin-top: 30px;
+    }
+    .espa{
+        padding-top: 20px;
+    }
+    .fondo{
+        background: #006194;
+        padding: 9% 0;
+    }
+    .error{
+        text-align: center;
+        margin-bottom: 5px;
+        width: 100%;
+        position: absolute;
+        right: 0px;
+        top: 20px;
+    }
+    .bt_gr{
+        margin: 1px;
+        padding: 20px;
+    }
+    .bt_gr a{
+        font-size: 20px;
+    }
+    .bt_gr img{
+        margin-bottom: -20px;
+    }
+    .bt_ch a{
+        margin-bottom: -5px;
+        margin-top: -5px;
+    }
+    .cont-ind{
+        margin-top: -20px;
+    }
+    .icon img{
+        width: 20px;
+    }
+    .icon li{
+        display: inline;
+        float: left;
+        width: 25%;
+        margin: auto;
+        padding-left: 5px;
+    }
+}
+.tarjeta{
+    background-color: #009cde;
+}
+.tarjeta-01{
+    background-color: #80d9ff;
+}
+.tarjeta-02{
+    background-color: #80d9ff;
+}
+.tarjeta-03{
+    background-color: #80d9ff;
+}
+.tarjeta-04{
+    background-color: #80d9ff;
+}
+.tarjeta-05{
+    background-color: #80d9ff;
+}
+.tarjeta-06{
+    background-color: #80d9ff;
+}
+.tarjeta-01-1{
+    background-color: #f4f4f4;
+}
+.tarjeta-01-2{
+    background-color: #f4f4f4;
+    padding: 10px;
+}
+.tarjeta h1{
+    color: #fff;
+    text-align: center;
+}
+.conte_tarjeta{
+    padding: 30px;
+    padding-bottom: 10px;
+}
+.contt{
+    border: 1px solid #407ec9;
+}
+.fin{
+    border-bottom: 1px solid #407ec9;
+}
+.espa{
+    padding-top: 10px;
+}
+.espa-2{
+    padding: 10px 0;
+}
+.tit{
+    font-size: 20px;
+    font-family: Rotoplas Bold;
+    margin-bottom: 30px;
+}

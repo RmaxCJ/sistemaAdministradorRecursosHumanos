@@ -1,0 +1,57 @@
+@font-face {
+    font-family: 'rotoplaslight';
+    src: url("http://zbb.rotoplas.com/mpdf60/ttfonts/rotoplasl.ttf") format('truetype'),;
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "rotoplasregular";
+    src: url("http://zbb.rotoplas.com/mpdf60/ttfonts/rotoplasr.ttf") format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+
+html, body {
+  font-size: 12px;
+  color: #002554;
+  background-color: #fff;
+  font-family: rotoplaslight, Rotoplas-Light, rotoplasregular !important;
+
+  }
+
+html{
+  min-height: 100%;
+  position: relative;
+}
+
+/*body{
+   background:url("http://zbb.rotoplas.com/constancias/img/fondo.png") no-repeat;
+   background-image-resolution:300dpi;
+   background-image-resize:6;
+   margin-bottom: 80px;
+ }*/
+
+table.datos{
+  background-color: #EFEFEF;
+  border-collapse: separate;
+}
+
+td :not(.encabezado){
+  border-bottom-color: #0099ff;
+  /*border: 1px solid #0099ff;*/
+  border-right-style: solid;
+  border-right-color: black;
+}
+
+footer, .footer{
+ /* background-color: #002554;*/
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+/*  min-height: 80px;
+  font-size: 12px;*/
+}
+
+

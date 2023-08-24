@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="296f4846-81df-4f9f-9845-e8883901a2f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1khQZF4Pau16EUvGOR6a3cXKS56" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CVH002" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\RelacionesRotoplas\vistas\modulos" />
+      <recent name="C:\xampp\htdocs\RelacionesRotoplas\modelos" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\RelacionesRotoplas\controladores" />
+      <recent name="C:\xampp\htdocs\RelacionesRotoplas\vistas" />
+      <recent name="C:\xampp\htdocs\RelacionesRotoplas\vistas\img" />
+      <recent name="C:\xampp\htdocs\RelacionesRotoplas\vistas\plugins" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="296f4846-81df-4f9f-9845-e8883901a2f0" name="Default Changelist" comment="" />
+      <created>1606150397873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606150397873</updated>
+      <workItem from="1606150418065" duration="27617000" />
+      <workItem from="1606756237019" duration="32164000" />
+      <workItem from="1607454402382" duration="10390000" />
+      <workItem from="1607626663528" duration="9055000" />
+      <workItem from="1607973080335" duration="17212000" />
+      <workItem from="1608249969851" duration="8725000" />
+      <workItem from="1608661228831" duration="12829000" />
+      <workItem from="1608747343868" duration="7765000" />
+      <workItem from="1609173213354" duration="7103000" />
+      <workItem from="1609267990089" duration="27109000" />
+      <workItem from="1609781829366" duration="2111000" />
+      <workItem from="1609865355100" duration="21120000" />
+      <workItem from="1610384319180" duration="45992000" />
+      <workItem from="1610987976800" duration="28051000" />
+      <workItem from="1611590981323" duration="28120000" />
+      <workItem from="1611883137216" duration="17547000" />
+      <workItem from="1612285586274" duration="28408000" />
+      <workItem from="1612911854711" duration="12402000" />
+      <workItem from="1612970557731" duration="5274000" />
+      <workItem from="1612990882039" duration="13604000" />
+      <workItem from="1613586013690" duration="24138000" />
+      <workItem from="1613630876459" duration="18693000" />
+      <workItem from="1614026564426" duration="592000" />
+      <workItem from="1614098806275" duration="61627000" />
+      <workItem from="1614743619737" duration="69980000" />
+      <workItem from="1615563371940" duration="2320000" />
+      <workItem from="1615924729916" duration="12385000" />
+      <workItem from="1616002891272" duration="30844000" />
+      <workItem from="1616519042183" duration="37990000" />
+      <workItem from="1616772895544" duration="3687000" />
+      <workItem from="1617048998032" duration="28498000" />
+      <workItem from="1617217566571" duration="35591000" />
+      <workItem from="1617897144244" duration="99138000" />
+      <workItem from="1618494265932" duration="5899000" />
+      <workItem from="1618528203715" duration="3891000" />
+      <workItem from="1618536631223" duration="36841000" />
+      <workItem from="1619128978145" duration="13000" />
+      <workItem from="1619204285023" duration="594000" />
+      <workItem from="1619543560192" duration="98000" />
+      <workItem from="1619550144720" duration="48000" />
+      <workItem from="1619561548169" duration="689000" />
+      <workItem from="1619562636033" duration="1722000" />
+      <workItem from="1619705684086" duration="2437000" />
+      <workItem from="1619800437840" duration="3734000" />
+      <workItem from="1619805322155" duration="33889000" />
+      <workItem from="1620400178966" duration="4353000" />
+      <workItem from="1620743895868" duration="4740000" />
+      <workItem from="1620834216075" duration="5168000" />
+      <workItem from="1620856120175" duration="1724000" />
+      <workItem from="1620916646603" duration="8951000" />
+      <workItem from="1621014647532" duration="2250000" />
+      <workItem from="1621276807936" duration="22279000" />
+      <workItem from="1621980160922" duration="606000" />
+      <workItem from="1622049362695" duration="638000" />
+      <workItem from="1622050747288" duration="230000" />
+      <workItem from="1622050996770" duration="8000" />
+      <workItem from="1622212084149" duration="2383000" />
+      <workItem from="1622229622291" duration="54000" />
+      <workItem from="1622490015503" duration="297000" />
+      <workItem from="1622585953419" duration="415000" />
+      <workItem from="1623257291653" duration="466000" />
+      <workItem from="1623434329368" duration="14000" />
+      <workItem from="1623436573596" duration="49000" />
+      <workItem from="1623436638037" duration="12000" />
+      <workItem from="1623444095123" duration="210000" />
+      <workItem from="1624578473562" duration="127000" />
+      <workItem from="1625605476201" duration="452000" />
+      <workItem from="1625712770792" duration="41000" />
+      <workItem from="1625765818621" duration="9000" />
+      <workItem from="1625774521500" duration="635000" />
+      <workItem from="1626103808274" duration="18000" />
+      <workItem from="1626105344369" duration="706000" />
+      <workItem from="1626124704409" duration="10319000" />
+      <workItem from="1626975244558" duration="1033000" />
+      <workItem from="1627320441472" duration="1270000" />
+      <workItem from="1627406840899" duration="2571000" />
+      <workItem from="1627663457254" duration="2306000" />
+      <workItem from="1627949661304" duration="294000" />
+      <workItem from="1627951341236" duration="3259000" />
+      <workItem from="1628173887900" duration="17120000" />
+      <workItem from="1628603957192" duration="30167000" />
+      <workItem from="1628779566859" duration="18578000" />
+      <workItem from="1629215977751" duration="8935000" />
+      <workItem from="1629476429907" duration="1564000" />
+      <workItem from="1629479381271" duration="15000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="22" key="#Deployment" timestamp="1622050951741">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="22" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1622050951741" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1628632912405">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1628632912405" />
+    <state x="517" y="287" key="NewPhpFileDialog" timestamp="1628628665261">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="287" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1628628665261" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1628722925502">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1628722925502" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vistas/modulos/minutas.php</url>
+          <line>245</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vistas/modulos/minutas.php</url>
+          <line>208</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/modelos/multas.modelo.php</url>
+          <line>66</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vistas/modulos/listamultas.php</url>
+          <line>538</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/vistas/modulos/formatopliego.php</url>
+          <line>63</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/modelos/usuarios.modelo.php</url>
+          <line>549</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/controladores/idioma.controlador.php</url>
+          <line>2</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/controladores/excel.controlador.php</url>
+          <line>5</line>
+          <properties>
+            <option name="className" value="\ControladorExcel" />
+            <option name="methodName" value="ctrSubirExcelPagos" />
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php-line-method">
+          <url>file://$PROJECT_DIR$/modelos/idioma.modelo.php</url>
+          <line>4</line>
+          <properties>
+            <option name="className" value="\ModeloUsuarios" />
+            <option name="methodName" value="mdlMostrarEmpleados" />
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

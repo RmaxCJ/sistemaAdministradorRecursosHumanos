@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a6e86215-aaf8-4798-82da-7bdf1b54a996" name="rotoplas prod" url="http://201.175.11.210">
+        <fileTransfer rootFolder="/var/www/html/relaciones" host="201.175.11.210" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
